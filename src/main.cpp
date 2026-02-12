@@ -32,8 +32,11 @@ int main() {
     cout << randomArray[i] << " ";
   }
 
-  selectionSort(uniqueArray);
-  selectionSort(randomArray);
+  // selectionSort(uniqueArray);
+  // selectionSort(randomArray);
+
+  // bubbleSort(uniqueArray);
+  // bubbleSort(randomArray);
 
   cout << "\n\n------------------------------------------\n\n";
 
